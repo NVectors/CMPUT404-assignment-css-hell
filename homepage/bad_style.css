@@ -1,0 +1,64 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: red;
+    max-width: 80%;
+    margin: auto;
+  }
+
+.header {
+    border-radius: 30px;
+    font-size: x-large;
+    padding: 5px;
+    text-align: center;
+    background-color: blue;
+    color: yellow;
+}
+
+p {
+    color: magenta;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+h2 {
+ font-size: medium;
+ color: brown;
+}
+
+.sidebar {
+    border-top-left-radius:15px;
+    border-bottom-right-radius:15px;
+    margin-top: 20px;
+    height: 80%;
+    padding: 15px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: purple;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.cards{
+    padding-right: 5%;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    background-color: greenyellow;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    }
+
+.image{
+    align-self: center;
+}
+
+ul {
+  list-style-type: none;
+}
+

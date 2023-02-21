@@ -10,220 +10,253 @@ pre {
   text-align: center;
 }
 a.fnanchor {
-    vertical-align:super;
-    font-size:.8em;
-    text-decoration:
-    none;
-   }
+  vertical-align:super;
+  font-size:.8em;
+  text-decoration:
+  none;
+ }
 
-blockquote {
-    text-align:justify;
-   }
+ blockquote {
+  text-align:justify;
+ }
 
-.center {
-    text-align:center;
-  }
+ .center {
+  text-align:center;
+ }
 
-div.center table {
-    margin-left:auto;
-    margin-right:auto;
-    text-align:left;
-    font-weight:bold;
-  }
+ div.center table {
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+  font-weight:bold;
+ }
 
-div.figcenter {
-    padding:1em;
-    text-align:center;
-    font-size:0.8em;
-    border:none;
-    margin:auto;
-    text-indent:1em;
-  }
+ div.figcenter {
+  padding:1em;
+  text-align:center;
+  font-size:0.8em;
+  border:none;
+  margin:auto;
+  text-indent:1em;
+ }
 
-div.footnote {
-    font-size: 0.9em;
-    margin-right: 5em;
-    margin-left: 5em;
-  }
+ div.footnote {
+  font-size: 0.9em;
+  margin-right: 5em;
+  margin-left: 5em;
+ }
 
-div.footnote p {
-    margin-left: 2em;
-    text-indent: -2.5em;
-  }
+ div.footnote p {
+  margin-left: 2em;
+  text-indent: -2.5em;
+ }
 
-div.footnote .label  {
-    margin-right: .5em;
-  }
+ div.footnote .label  {
+  margin-right: .5em;
+ }
 
  h1, h2 {
-    text-align:center;
-  }
+  text-align:center;
+ }
 
-   hr.tb {
-    margin:2em 25%;
-    width:50%;
-   }
+ hr.tb {
+  margin:2em 25%;
+  width:50%;
+ }
 
-   img.border2 {
-    border-width:2px;
-    border-style:solid;
-    border-color:black;
-   }
+ img.border2 {
+  border-width:2px;
+  border-style:solid;
+  border-color:black;
+ }
 
-   p.caption {
-    text-indent:0;
-    text-align:center;
-    font-weight:bold;
-    margin-bottom:2em;
-   }
+ p.caption {
+  text-indent:0;
+  text-align:center;
+  font-weight:bold;
+  margin-bottom:2em;
+ }
 
-   h1 {
-    font-size: 2em;
-    margin:.67em 0;
-    letter-spacing:3px
-   }
+ h1 {
+  font-size: 2em;
+  margin:.67em 0;
+  letter-spacing:3px
+ }
 
-   h2 {font-size: 1.5em; margin:.75em 0;}
+ h2 {font-size: 1.5em; margin:.75em 0;}
 
-   p.book-dedication {
-    margin-top: 4em;
-    font-size: 1.17em;
-    font-weight:bolder;
-    text-align:center;
-   }
+ p.book-dedication {
+  margin-top: 4em;
+  font-size: 1.17em;
+  font-weight:bolder;
+  text-align:center;
+ }
 
-   p.book-verso {          /* title page back */
-    margin-top: 4em;
-    font-size: .83em;
-    font-weight:bolder;
-    text-align:center;
-   }
+ p.book-verso {          /* title page back */
+  margin-top: 4em;
+  font-size: .83em;
+  font-weight:bolder;
+  text-align:center;
+ }
 
-   p.book-publisher, p.book-bylines, p.book-trailer {
-    margin-top: 4em;
-    font-weight:bolder;
-    text-align:center;
-   }
+ p.book-publisher, p.book-bylines, p.book-trailer {
+  margin-top: 4em;
+  font-weight:bolder;
+  text-align:center;
+ }
 
-   p.no-indent {
-    text-indent: 0;
-   }
+ p.no-indent {
+  text-indent: 0;
+ }
 
-   span.pagenum {
-    visibility:hidden;       /*  comment out to see page numbers */
-    position:absolute;
-    right:2%;
-    font-size:75%;
-    color:gray;
-    background-color:inherit;
-    text-align:right;
-    text-indent:0;
-    font-style:normal;
-    font-weight:normal;
-    font-variant:normal;
-   }
+ span.pagenum {
+  visibility:hidden;       /*  comment out to see page numbers */
+  position:absolute;
+  right:2%;
+  font-size:75%;
+  color:gray;
+  background-color:inherit;
+  text-align:right;
+  text-indent:0;
+  font-style:normal;
+  font-weight:normal;
+  font-variant:normal;
+ }
 
-   td.tdc {
-    text-align:center;
-   }
+ td.tdc {
+  text-align:center;
+ }
 
-   td.tdl {
-    text-align:left;
-   }
+ td.tdl {
+  text-align:left;
+ }
 
-   td.tdr {
-    text-align:right;
-    padding-right:1em;
-   }
+ td.tdr {
+  text-align:right;
+  padding-right:1em;
+ }
 
-   td.tdrfirst {
-    text-align:right;
-    padding-right:1em;
-    font-size:80%;
-   }
+ td.tdrfirst {
+  text-align:right;
+  padding-right:1em;
+  font-size:80%;
+ }
 
-   .smcap {font-variant:small-caps;}
+ .smcap {font-variant:small-caps;}
 
- /* Start of variants for @media */
+/* Start of variants for @media */
 
-   #half-title {            /* for first page with only book title */
-    text-align: center;
-    font-size: large;
-    font-weight: bold;
-    margin: 5em 0;
+ #half-title {            /* for first page with only book title */
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  margin: 5em 0;
+ }
+
+ hr.chap {
+  margin-top:6em;
+  margin-bottom:4em;
+  clear:both;
+ }
+
+ p.book-midtitle {          /* intermediate area titles */
+  font-size: 1.17em;
+  font-weight:bolder;
+  text-align:center;
+ }
+
+ p {
+  text-align: justify;
+  margin-top: .75em;
+  margin-bottom: .75em;
+  text-indent: 0;
+ }
+
+ div.poem {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom:1em;
+  text-align:left;
+ }
+
+ div.stanza {
+  margin: 1em 0 0 2em;
+ }
+
+ div.verse00, div.verse04, div.verse06, div.verse08 {
+  text-indent: -3em;
+  padding-left: 3em;
+ }
+
+ div.verse00 {margin-left: 00em;}
+ div.verse04 {margin-left: 04em;}
+ div.verse06 {margin-left: 06em;}
+ div.verse08 {margin-left: 08em;}
+
+ @media handheld {
+
+   #half-title, p.book-midtitle {
+    page-break-before: always;
+    page-break-after: always;
+    margin: 6em 0;
+    padding-top: 6em;
+    padding-bottom: 6em;
    }
 
    hr.chap {
-    margin-top:6em;
-    margin-bottom:4em;
-    clear:both;
-   }
-
-   p.book-midtitle {          /* intermediate area titles */
-    font-size: 1.17em;
-    font-weight:bolder;
-    text-align:center;
+    visibility: hidden;
+    display: none;
    }
 
    p {
-    text-align: justify;
-    margin-top: .75em;
-    margin-bottom: .75em;
-    text-indent: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 2em;
    }
 
    div.poem {
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom:1em;
-    text-align:left;
+    margin-left: 2em;
+    margin-right: 0;
+    margin-bottom: 1em;
    }
 
-   div.stanza {
-    margin: 1em 0 0 2em;
-   }
+   div.stanza {margin: .75em auto;}
 
-   div.verse00, div.verse04, div.verse06, div.verse08 {
-    text-indent: -3em;
-    padding-left: 3em;
-   }
+   div.verse00 {text-indent: 00em; margin-left: 0; padding-left: 0}
+   div.verse04 {text-indent: 04em; margin-left: 0; padding-left: 0}
+   div.verse06 {text-indent: 05em; margin-left: 0; padding-left: 0}
+   div.verse08 {text-indent: 06em; margin-left: 0; padding-left: 0}
+ }
 
-   div.verse00 {margin-left: 00em;}
-   div.verse04 {margin-left: 04em;}
-   div.verse06 {margin-left: 06em;}
-   div.verse08 {margin-left: 08em;}
+.c {
+  text-align:center;
+  text-indent:0%;
+}
 
-   @media handheld {
+.caption  {
+  font-weight:normal;
+  font-size:80%;
+}
 
-     #half-title, p.book-midtitle {
-      page-break-before: always;
-      page-break-after: always;
-      margin: 6em 0;
-      padding-top: 6em;
-      padding-bottom: 6em;
-     }
+table {
+  margin-top:2%;
+  margin-bottom:2%;
+  margin-left:auto;
+  margin-right:auto;
+  border:none;
+}
 
-     hr.chap {
-      visibility: hidden;
-      display: none;
-     }
+.r {
+  text-align:right;
+  margin-right: 5%;
+}
 
-     p {
-      margin-top: 0;
-      margin-bottom: 0;
-      text-indent: 2em;
-     }
+.rt {
+  text-align:right;
+}
 
-     div.poem {
-      margin-left: 2em;
-      margin-right: 0;
-      margin-bottom: 1em;
-     }
-
-     div.stanza {margin: .75em auto;}
-
-     div.verse00 {text-indent: 00em; margin-left: 0; padding-left: 0}
-     div.verse04 {text-indent: 04em; margin-left: 0; padding-left: 0}
-     div.verse06 {text-indent: 05em; margin-left: 0; padding-left: 0}
-     div.verse08 {text-indent: 06em; margin-left: 0; padding-left: 0}
-   }
+.cb {
+  text-align:center;
+  text-indent:0%;
+  font-weight:bold;
+}

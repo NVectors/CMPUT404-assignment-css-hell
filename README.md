@@ -20,6 +20,8 @@ Textual content is copyright Victor Nguyen (C) 2023 under the CC-BY-SA
 repository and (C) 2023 Victor Nguyen visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
+
+HTML/CSS Modifications
 =================
 
 For part 1, I downloaded the project gutenberg document's .htm files and renamed the file to gutenberg_.html (_ being the 1st, 2nd or 3rd document).<br>

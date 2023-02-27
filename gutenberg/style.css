@@ -262,3 +262,8 @@ table {
   text-indent:0%;
   font-weight:bold;
 }
+
+#CC {
+  text-align: center;
+  margin-bottom: 5em;
+}
